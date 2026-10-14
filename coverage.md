@@ -4,6 +4,7 @@
 
 | Date | Outlet | Language | Link |
 |---|---|---|---|
+| Oct 14, 2026 | Universidad de Cádiz (home page news) | ES | https://www.uca.es/noticia/el-gestor-de-contrasenas-zerokeyusb-de-un-egresado-de-uca-supera-el-250-de-su-financiacion-objetivo/ |
 | Oct 8, 2026 | elhacker.NET | ES | https://blog.elhacker.net/2026/10/zerokeyusb-un-gestor-de-contrasenas-de.html |
 | Oct 8, 2026 | UCAEmprende (University of Cádiz) | ES | https://emprende.uca.es/zerokeyusb-el-gestor-de-contrasenas-offline-surgido-de-un-egresado-de-universidad-de-cadiz-supera-el-250-de-su-meta-de-financiacion/ |
 | Oct 2026 | La Bonilista #793: "La «descolonización» del Hardware" (guest article by Bruno Escobar) | ES | https://app.supermo.no/share/82ebe6b708e0c98e/e564eed220 |
