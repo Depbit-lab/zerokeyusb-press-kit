@@ -4,6 +4,7 @@
 
 | Date | Outlet | Language | Link |
 |---|---|---|---|
+| Oct 27, 2026 | Revista Ciberseguridad (guest article by Bruno Escobar) | ES | https://www.revistaciberseguridad.com/2026/10/zerokeyusb-sacar-las-contrasenas-de-la-nube-y-volver-a-llevarlas-en-el-bolsillo/ |
 | Oct 15, 2026 | UnderNews | FR | https://www.undernews.fr/authentification-biometrie/zerokeyusb-depasse-250-de-son-objectif-sur-crowd-supply-un-gestionnaire-de-mots-de-passe-hors-ligne-et-open-source.html |
 | Oct 14, 2026 | Universidad de Cádiz (home page news) | ES | https://www.uca.es/noticia/el-gestor-de-contrasenas-zerokeyusb-de-un-egresado-de-uca-supera-el-250-de-su-financiacion-objetivo/ |
 | Oct 8, 2026 | elhacker.NET | ES | https://blog.elhacker.net/2026/10/zerokeyusb-un-gestor-de-contrasenas-de.html |
