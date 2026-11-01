@@ -49,7 +49,7 @@ Las unidades comerciales llevan un firmware firmado. El código está publicado 
 |---|---|
 | Plataforma | Crowd Supply (respaldada por Mouser Electronics): https://www.crowdsupply.com/depbit/zerokeyusb |
 | Lanzamiento | 22 de septiembre de 2026 |
-| Estado | Más del 250 % del objetivo |
+| Estado | 412 % del objetivo (más de 10.300 € recaudados) |
 | Fin de la campaña | 5 de noviembre de 2026 |
 | Precio | 99 $ (envío 8 $ EE. UU. / 18 $ internacional) |
 | Entrega prevista | Abril de 2027 |

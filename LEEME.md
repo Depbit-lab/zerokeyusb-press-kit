@@ -19,7 +19,7 @@ ZeroKeyUSB es un dispositivo USB-C que guarda tus credenciales y las teclea por 
 | **Compatible con** | Windows, macOS, Linux, Android, iPadOS (USB-C). Sin instalar nada |
 | **Código abierto** | Firmware, PCB y carcasa bajo licencia MIT: https://github.com/Depbit-lab/Zerokey |
 | **Precio** | 99 $ en Crowd Supply (envío 8 $ EE. UU. / 18 $ internacional) |
-| **Campaña** | Lanzada el 22 de septiembre de 2026 · supera el 250 % del objetivo · termina el **5 de noviembre de 2026** |
+| **Campaña** | Lanzada el 22 de septiembre de 2026 · 412 % del objetivo (más de 10.300 €) · termina el **5 de noviembre de 2026** |
 | **Entrega** | Prevista para abril de 2027 |
 | **Origen** | Nació como trabajo de fin de grado en la Universidad de Cádiz, ganador del premio atrÉBT! TFG/TFM (XVI edición). Lo desarrolla Depbit LLC y se fabrica en España |
 

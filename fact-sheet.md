@@ -49,7 +49,7 @@ Retail units run a signed build. The source is there to be inspected and audited
 |---|---|
 | Platform | Crowd Supply (backed by Mouser Electronics): https://www.crowdsupply.com/depbit/zerokeyusb |
 | Launch | September 22, 2026 |
-| Status | Over 250 % of funding goal |
+| Status | 412 % of funding goal (over €10,300 raised) |
 | Campaign ends | November 5, 2026 |
 | Price | $99 (shipping $8 US / $18 international) |
 | Estimated delivery | April 2027 |
